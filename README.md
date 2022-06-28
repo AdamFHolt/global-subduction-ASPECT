@@ -1,10 +1,10 @@
 ## OVERVIEW 
 
-Contains the suite of thermo-mechanical subduction models analyzed in Holt and Condit (submitted to G-cubed). Folder contents:
+Contains the suite of global, compositional subduction models analyzed in Holt and Condit (submitted to G-cubed). All models were ran using ASPECT version 2.1.0. Folder contents:
 
 **input_files:**  Contains all ASPECT input (.prm) files used in the study. Inside this directory is another README summarizing the models. 
 
-**input_geometries:** Contains Python scripts used to create the initial conditions of the models as .txt files. Two scripts to create i) the initial temperature distribution, and ii) the initial compositional distribution. All models use the same pair of input geometry files. 
+**input_geometries:** Contains Python scripts used to create the initial conditions of the models as .txt files. 
 
 ## REFERENCES
 
