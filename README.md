@@ -10,7 +10,7 @@ Contains the suite of global, compositional subduction models analyzed in Holt (
 
 **Main study reference:**
 
-Holt, A. F., "Probing upper mantle pressure patterns and oceanic dynamic topography using global subduction models", Submitted to Geophysical Research Letters.
+Holt, A. F., "Probing upper mantle pressure patterns and oceanic dynamic topography within global subduction models", Submitted to Geophysical Research Letters.
 
 **ASPECT references:**
 
