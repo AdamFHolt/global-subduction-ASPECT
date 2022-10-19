@@ -1,6 +1,6 @@
 ## OVERVIEW 
 
-Contains the suite of global, compositional subduction models analyzed in Holt (submitted to G-cubed). All models were ran using ASPECT version 2.1.0. Folder contents:
+Contains the suite of global, compositional subduction models analyzed in Holt (2022). All models were ran using ASPECT version 2.2.0. Folder contents:
 
 **input_files:**  Contains all ASPECT input (.prm) files used in the study. Inside this directory is another README summarizing the models. 
 
@@ -10,7 +10,7 @@ Contains the suite of global, compositional subduction models analyzed in Holt (
 
 **Main study reference:**
 
-Holt, A. F., "Probing upper mantle pressure patterns and oceanic dynamic topography within global subduction models", Submitted to Geophysical Research Letters.
+Holt, A. F., "The topographic signature of mantle pressure build-up beneath subducting plates: A numerical modeling study", In Press at Geophysical Research Letters.
 
 **ASPECT references:**
 
@@ -18,6 +18,6 @@ Martin Kronbichler, Timo Heister, and Wolfgang Bangerth. 2012. “High Accuracy 
 
 Timo Heister, Juliane Dannberg, Rene Gassmöller, and Wolfgang Bangerth. 2017. “High Accuracy Mantle Convection Simulation through Modern Numerical Methods – II: Realistic Models and Problems.” Geophysical Journal International 210 (2) (May 9): 833–851. doi:10.1093/gji/ggx195. http://dx.doi.org/10.1093/gji/ggx195.
 
-Wolfgang Bangerth, Juliane Dannberg, Rene Gassmoeller, and Timo Heister. 2020. ASPECT v2.1.0. (version v2.1.0). Zenodo. https://doi.org/10.5281/zenodo.2653531
+Wolfgang Bangerth, Juliane Dannberg, Rene Gassmoeller, and Timo Heister. 2020. ASPECT v2.2.0. (version v2.2.0). Zenodo. https://doi.org/10.5281/zenodo.3924604
 
 Wolfgang Bangerth, Juliane Dannberg, Rene Gassmoeller, Timo Heister, and others. 2020. ASPECT: Advanced Solver for Problems in Earth's ConvecTion, User Manual. <i>Figshare</i>. https://doi.org/10.6084/m9.figshare.486533
