@@ -8,7 +8,7 @@ Contains the suite of global, compositional subduction models analyzed in Holt (
 
 ## REFERENCES
 
-**Main study reference:**
+**Study reference:**
 
 Holt, A. F., "The topographic signature of mantle pressure build-up beneath subducting plates: A numerical modeling study", In Press at Geophysical Research Letters.
 
