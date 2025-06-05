@@ -1,6 +1,6 @@
 ## OVERVIEW 
 
-Contains the suite of global, compositional subduction models analyzed in Holt (2022). All models were ran using ASPECT version 2.2.0. Folder contents:
+Contains the suite of global subduction models analyzed in Holt (2022). All models were ran using ASPECT version 2.2.0. Folder contents:
 
 **input_files:**  Contains all ASPECT input (.prm) files used in the study. Inside this directory is another README summarizing the models. 
 
@@ -10,7 +10,7 @@ Contains the suite of global, compositional subduction models analyzed in Holt (
 
 **Study reference:**
 
-Holt, A. F., "The topographic signature of mantle pressure build-up beneath subducting plates: A numerical modeling study", In Press at Geophysical Research Letters.
+Holt, A. F., 2022. The Topographic Signature of Mantle Pressure Build-Up Beneath Subducting Plates: Insights From Spherical Subduction Models. Geophysical Research Letters, https://doi.org/10.1029/2022GL100330.
 
 **ASPECT references:**
 
